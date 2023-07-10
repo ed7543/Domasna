@@ -1,0 +1,104 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    
+}
+
+.logo {
+    height: 75px;
+    width: 200px;
+    margin-left: 50px;
+}
+
+.navbar a {
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(216, 154, 196);
+}
+.prvdel {
+    display: flex;
+    align-items: center;
+    background-image: url(randomslikaodshow.webp);
+    background-position: 130px 100px;
+    justify-content: center;
+    
+}
+
+.content1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(2, 62, 42);
+    text-align: center;
+    border: 0cm;
+    background-color: rgba(255, 255, 255, 0.51);
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.vtordel {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(238, 247, 238);
+}
+
+.tip1 {
+    display: flex;
+    flex-direction: column;
+    border: 0cap;
+    width: 800px;
+    margin-left: 100px;
+    font-size: large;
+    color: rgb(2, 62, 42);
+    background-color: rgba(255, 255, 255, 0.51);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.lale {
+    margin-left: auto;
+}
+
+.tretdel {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(252, 243, 245);
+}
+
+.lista2 {
+    display: flex;
+    flex-direction: column;
+    border: 0cap;
+    width: 800px;
+    margin-left: 100px;
+    font-size: large;
+    color: rgb(73, 5, 42);
+    background-color: rgba(255, 255, 255, 0.51);
+    padding: 10px;
+    border-radius: 10px;
+    order: inherit;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    background-color: rgb(250, 177, 214);
+    margin-top: 5px;
+    padding: 10px;
+    
+}
+
+.footer a {
+    margin-right: 100px;
+    text-decoration: none;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-decoration: none;
+}
