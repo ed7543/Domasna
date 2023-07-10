@@ -1,0 +1,113 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    
+}
+
+.logo {
+    height: 75px;
+    width: 200px;
+    margin-left: 50px;
+}
+
+.navbar a {
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(216, 154, 196);
+}
+
+.prvdel {
+    display: flex;
+    align-items: center;
+    background-image: url(pozadina_home.jpeg);
+    justify-content: center;
+    
+}
+
+.content1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(204, 54, 121);
+    text-align: center;
+    border: 0cm;
+    background-color: rgba(255, 255, 255, 0.522);
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.vtordel {
+    display: flex;
+    align-items: center;
+    background-color: rgb(250, 177, 214);
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    
+    
+}
+.content2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 0cap;
+    font-size: large;
+    color: aliceblue;
+}
+
+.tretdel {
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    
+    
+}
+
+.kvad1 {
+    display: flex;
+    flex-direction: column;
+    border: 0cap;
+    width: auto;
+    height: auto;
+    margin-right: 50px;
+    margin-top: 50px;
+    color: rgb(201, 57, 134);
+    font-size: 21px;
+    text-align: justify;
+}
+ .lugjew {
+    width: 1200px;
+ }
+
+ .footer {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    background-color: rgb(250, 177, 214);
+    margin-top: 5px;
+    padding: 10px;
+    
+}
+
+.footer a {
+    margin-right: 100px;
+    text-decoration: none;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.hearts {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.hrts {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
